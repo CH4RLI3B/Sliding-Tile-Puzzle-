@@ -1,4 +1,3 @@
-# Sliding-Tile-Puzzle-
 # 5×5 Tile Puzzle Game
 
 # Overview
@@ -7,7 +6,8 @@ This project is a Python-based 5×5 tile puzzle game developed as part of my com
 
 The project focuses on object-oriented programming, two-dimensional lists, grid manipulation and logical problem-solving in Python.
 
-**Features**
+**Features**:
+
 5×5 Grid: Represents the puzzle board using a two-dimensional list.
 
 Board Class: Organises the board's structure and functionality using object-oriented programming.
@@ -42,7 +42,7 @@ Testing program behaviour using predefined board configurations.
 
 Developing structured, maintainable code.
 
-**Future Improvements:**
+# Future Improvements:
 
 Implementing valid tile movement rules.
 
