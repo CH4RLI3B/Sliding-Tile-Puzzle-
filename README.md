@@ -1,7 +1,7 @@
 # Sliding-Tile-Puzzle-
-#5×5 Tile Puzzle Game
+# 5×5 Tile Puzzle Game
 
-#Overview
+# Overview
 
 This project is a Python-based 5×5 tile puzzle game developed as part of my computer science studies. The game uses a grid-based board to represent and manipulate tile positions, providing a foundation for implementing puzzle mechanics and state-based problem-solving.
 
@@ -20,7 +20,7 @@ Testing: Uses test states to check board configuration and functionality.
 
 Formatted Output: Displays the board as a structured grid for easier readability.
 
-#How It Works
+# How It Works
 
 The game represents the puzzle as a 5×5 grid. A Board class manages the board structure, while individual positions store values representing the tiles.
 
